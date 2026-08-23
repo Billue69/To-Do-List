@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20260617-1048-Experimental"
+	Name="Duck"
+	Generator="ctest-4.3.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="15.2.0"
+	OSName="Linux"
+	Hostname="Duck"
+	OSRelease="6.19.11+deb14-amd64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Debian 6.19.11-1 (2026-04-05)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="80"
+	ModelName="AMD Ryzen 5 5600G with Radeon Graphics"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="30517"
+	TotalPhysicalMemory="31881"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4199.433105"
+	>
+	<Testing>
+		<StartDateTime>Aug 23 16:27 PKT</StartDateTime>
+		<StartTestTime>1787484469</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 23 16:27 PKT</EndDateTime>
+		<EndTestTime>1787484469</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

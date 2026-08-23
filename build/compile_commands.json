@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/quack/Documents/Programs/toDoList/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/toDoList.dir/main.cpp.o -c /home/quack/Documents/Programs/toDoList/main.cpp",
+  "file": "/home/quack/Documents/Programs/toDoList/main.cpp",
+  "output": "CMakeFiles/toDoList.dir/main.cpp.o"
+},
+{
+  "directory": "/home/quack/Documents/Programs/toDoList/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/toDoList.dir/tasks.cpp.o -c /home/quack/Documents/Programs/toDoList/tasks.cpp",
+  "file": "/home/quack/Documents/Programs/toDoList/tasks.cpp",
+  "output": "CMakeFiles/toDoList.dir/tasks.cpp.o"
+},
+{
+  "directory": "/home/quack/Documents/Programs/toDoList/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/toDoList.dir/terminal.cpp.o -c /home/quack/Documents/Programs/toDoList/terminal.cpp",
+  "file": "/home/quack/Documents/Programs/toDoList/terminal.cpp",
+  "output": "CMakeFiles/toDoList.dir/terminal.cpp.o"
+}
+]
